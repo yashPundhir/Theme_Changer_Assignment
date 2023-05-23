@@ -1,0 +1,16 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+.dashboard {
+	background-color: #fff;
+	color: #000;
+}
+
+.dashboard.dark {
+	background-color: #222;
+	color: #fff;
+}
